@@ -61,4 +61,4 @@ async def hola(ctx):
 
 webserver.keep_alive()
 # Token del bot
-bot.run("MTM3MTYyMzkyMDY1ODE1MzUzMw.G8sAaP.TfdWh5YPR67Yh60btebv4WrAl6nowY9kzzwu94")  # Reemplázalo con el token de tu bot
+bot.run("MTM3MTYyMzkyMDY1ODE1MzUzMw.GCVuIz.R3M4svqYOH2R9mJHqDR3T382vbwOk5HUyVAXYs")  # Reemplázalo con el token de tu bot
