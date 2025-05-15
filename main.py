@@ -1,7 +1,7 @@
 import discord
 from discord.ext import commands
 import os
-import websever
+import webserver
 
 # Configuración de intents
 intents = discord.Intents.default()
