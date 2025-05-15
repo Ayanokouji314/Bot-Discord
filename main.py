@@ -59,6 +59,6 @@ async def on_message(message):
 async def hola(ctx):
     await ctx.send("¡Hola! Soy tu bot de Discord. 🚀")
 
-websever.keep_alive()
+webserver.keep_alive()
 # Token del bot
 bot.run("MTM3MTYyMzkyMDY1ODE1MzUzMw.G8sAaP.TfdWh5YPR67Yh60btebv4WrAl6nowY9kzzwu94")  # Reemplázalo con el token de tu bot
